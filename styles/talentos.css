@@ -1,0 +1,32 @@
+.talentos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3em;
+    gap: 4em;
+}
+
+.background__span{
+    border: 1px solid transparent;
+    background-color: rgba(142, 36, 36, 0.05);
+    color: var(--cor-primaria);
+    border-radius: 20px;
+    padding: 0.5em 1em;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.talentos h2{
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--cor-secundaria);
+}
+
+.talentos p{
+    font-size: 20px;
+    color: var(--cor-terciaria);
+}
+
+.foto__candidatos{
+    width: 100%;
+}

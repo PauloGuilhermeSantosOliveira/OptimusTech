@@ -1,0 +1,41 @@
+footer{
+    text-align: center;
+    background-color: #f9fafb;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3em;
+    text-align: center;
+    gap: 1em;
+    padding-bottom: 64px;
+}
+
+.footer__titulo{
+    font-size: 36px;
+    font-weight: bold;
+    color: var(--cor-secundaria);
+}
+
+.forms{
+    display: flex;
+}
+.formulario{
+    width: 360px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #D0D5DD;
+    margin-right: 16px;
+}
+
+.copyright{
+    font-size: 0.9em;
+    font-weight: 400;
+}
+
+@media screen and (max-width: 768px) {
+.formulario{
+    text-align: center;
+    width: 260px;
+}
+
+}

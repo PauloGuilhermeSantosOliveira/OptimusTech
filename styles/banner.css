@@ -1,0 +1,23 @@
+.banner{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.banner__titulo {
+    font-size: 16px;
+    font-weight:700;
+    color: var(--cor-primaria);
+}
+
+.banner__subtitulo {
+    padding-top:24px;
+    font-size: 48px;
+    font-weight: 700;
+    color: var(--cor-secundaria);
+}
+
+.banner__texto{
+    padding-top: 24px;
+    color: var(--cor-terciaria);
+}
