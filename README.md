@@ -1,2 +1,4 @@
 # OptimusTech
- Trabalho feito pelo desafio da 7daysOfCode
+ Trabalho feito para o desafio da 7daysOfCode
+
+ link : https://pauloguilhermesantosoliveira.github.io/OptimusTech/
